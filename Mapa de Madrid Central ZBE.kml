@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa de Madrid Central ZBE</name>
+    <description>ZBE Distrito Centro, antiguo Madrid Central. Más información en: www.distintivoambiental.com</description>
+    <NetworkLink>
+      <name>Mapa de Madrid Central ZBE</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1wyBmnKMgyNCtxR6HUjvUBGFAWV0_x_8]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
